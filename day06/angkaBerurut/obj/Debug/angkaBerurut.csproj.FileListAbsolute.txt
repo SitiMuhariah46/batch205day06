@@ -1,0 +1,6 @@
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\angkaBerurut\bin\Debug\angkaBerurut.exe.config
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\angkaBerurut\obj\Debug\angkaBerurut.csprojResolveAssemblyReference.cache
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\angkaBerurut\bin\Debug\angkaBerurut.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\angkaBerurut\bin\Debug\angkaBerurut.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\angkaBerurut\obj\Debug\angkaBerurut.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\angkaBerurut\obj\Debug\angkaBerurut.pdb

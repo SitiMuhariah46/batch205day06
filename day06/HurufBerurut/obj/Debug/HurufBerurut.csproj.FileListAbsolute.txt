@@ -1,0 +1,6 @@
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\HurufBerurut\bin\Debug\HurufBerurut.exe.config
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\HurufBerurut\bin\Debug\HurufBerurut.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\HurufBerurut\bin\Debug\HurufBerurut.pdb
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\HurufBerurut\obj\Debug\HurufBerurut.csprojResolveAssemblyReference.cache
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\HurufBerurut\obj\Debug\HurufBerurut.exe
+D:\Bootcamp Visual Studio 2013\Latihan\Batch205\day06\day06\HurufBerurut\obj\Debug\HurufBerurut.pdb
